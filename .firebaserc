@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "cashier-10",
+    "build/web": "cashier-10"
+  },
+  "targets": {},
+  "etags": {}
+}

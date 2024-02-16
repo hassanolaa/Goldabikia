@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612343359005",
+    "project_id": "goldabikia-hassanola",
+    "storage_bucket": "goldabikia-hassanola.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612343359005:android:3c914118ee634b282648f4",
+        "android_client_info": {
+          "package_name": "com.example.goldabikia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaGavjXEqK3TFDCFRUgKi_HLVGn93STQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
